@@ -1,0 +1,14 @@
+- ¿Qué es Transfer Learning? — explicación con tus palabras
+-   Es una tecnica que se utiliza en los modelos de inteligencia artificial para especializarse y aprender utilizando modelos ya entrenados
+- ¿Qué modelo usaste? — MobileNetV2, características principales
+-   MobileNetV2 y su caracteristica principal es que esta diseñada para dispositivos con recursos limitados desarrollada por google
+- Resultado de la predicción — ¿qué imagen probaste? ¿qué predijo el modelo? ¿fue correcto?
+-   El cuaderno de laboratorio proporcionado finaliza en la construcción y congelamiento de las capas del modelo MobileNetV2. No se incluyó ninguna celda de código para cargar una imagen ni realizar una predicción final, por lo que no hay resultados que reportar en esta sección.
+- Parámetros congelados vs entrenables — los números que obtuviste
+-   Total parámetros: 2,422,081
+-   Entrenables (nuevo): 164,097 (6.8%)
+-   Congelados (base): 2,257,984 (93.2%)
+- Aplicación potencial — el problema de TL que identificaste en la Actividad A1
+-   Me di cuenta que este tipo de metodos se pueden aplicar a muchas areas, ayudar a profecionales, poblacion en general y tambien a mejorar la calidad del servicio en areas como la salud, reconocer enfermedades mas rapidamente, tambien utilizando modelos base como MobileNetV2 es mas accesible y facil crear herramientas utiles
+- Tu opinión — ¿qué fue lo más sorprendente de la sesión?
+-   Para mi lo mas impresionante es darme cuenta de lo accesible que son las herramientas con las cuales se puede empezar a contruir y entrenar modelos, auque simple, utiles y aplicables en la vida real
